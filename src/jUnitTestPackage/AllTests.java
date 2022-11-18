@@ -19,5 +19,4 @@ public class AllTests{
 		int result1 = jUnit.AddNumbers(50, 100);
 		assertEquals(150, result1);
 	}
-	
 }
